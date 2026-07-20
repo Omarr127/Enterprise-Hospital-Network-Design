@@ -579,7 +579,4 @@ Spring 2026
 
 ---
 
-# 📜 License
 
-
-This project is developed for educational purposes as part of the Computer Networks course.
