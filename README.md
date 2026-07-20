@@ -484,11 +484,11 @@ City-Smart-Hospital-Network
 # 📸 Project Gallery
 
 
-## Cisco Packet Tracer Topology
+## Network Architecture
 
 
 <p align="center">
-  <img src="images/PacketTracer_Topology.png" width="900">
+  <img src="Images/PacketTracer_Topology.png" width="900">
 </p>
 
 
@@ -496,7 +496,7 @@ City-Smart-Hospital-Network
 
 
 <p align="center">
-  <img src="images/Failover_Test.png" width="800">
+  <img src="Images/Failover_Test.png" width="800">
 </p>
 
 
@@ -504,7 +504,7 @@ City-Smart-Hospital-Network
 
 
 <p align="center">
-  <img src="images/Traffic_Analysis.png" width="800">
+  <img src="Images/Traffic_Analysis.png" width="800">
 </p>
 
 
