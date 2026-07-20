@@ -488,7 +488,7 @@ City-Smart-Hospital-Network
 
 
 <p align="center">
-  <img src="Images/PacketTracer_Topology.png" width="900">
+  <img src="Images/Network_Architecture.png" width="900">
 </p>
 
 
