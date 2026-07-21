@@ -536,22 +536,7 @@ The report includes:
 
 ---
 
-# 👨‍💻 Team
 
-
-Developed as part of:
-
-
-**CIE 447 / CIE 367 — Computer Networks Project**
-
-Department of Computer and Information Engineering
-
-University of Science and Technology in Zewail City
-
-Spring 2026
-
-
----
 
 # 🚀 Skills Demonstrated
 
